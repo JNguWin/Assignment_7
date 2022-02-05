@@ -13,7 +13,8 @@ gird-column-start
 
 #middle-column {
     padding-top: 10px;
-    grid-column-start: 1, 3;
+    grid-column-start: 1;
+    grid-column-start: 3;
     background-color: lightblue;
     height: 1000px;
 }
