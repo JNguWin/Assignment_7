@@ -6,7 +6,7 @@ gird-column-start
 
 #container {
     display: grid;
-    grid-template-columns: 20% auto 20%;
+    grid-template-columns: 10% auto 10%;
     grid-column-start: 1;
     background-color:rosybrown;
 }
