@@ -24,7 +24,7 @@ Combine styles from page_1_style and page_2_style
 #middle-column {
     display: grid;
     grid-template-columns: auto auto auto;
-    grid-column-start: 2;
+    grid-column-start: 1;
     gap: 5px;
     padding: 5px 0;
     background-color: lightskyblue;
