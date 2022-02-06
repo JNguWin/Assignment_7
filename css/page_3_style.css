@@ -18,6 +18,7 @@ Combine styles from page_1_style and page_2_style
     background-color:rosybrown;
     display: grid;
     grid-template-columns: 10% 80% 10%;
+    grid-column-start: 1;
 }
 
 #middle-column {
